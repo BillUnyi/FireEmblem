@@ -1,0 +1,18 @@
+21, 32, Marth, Lord, Falchion, Silver Sword, Rapier, Levin Sword
+19, 33, Jesse, Mercenary, Steel Sword, Armorslayer
+23, 33, Cloud, Hero, Silver Sword, Killing Edge, Cursed Sword
+22, 35, Gaius, Thief, Iron Sword
+26, 32, Vaike, Fighter, Iron Axe, Hand Axe
+27, 32, Darros, Pirate, Steel Axe, Hammer, Cursed Axe
+25, 34, Lukas, Knight, Silver Sword, Armorslayer, Javelin
+20, 35, Python, Archer, Iron Bow, Bowgun
+29, 33, Atlas, Hunter, Silver Bow, Steel Bow
+30, 31, Claude, Sniper, Parthia, Silver Bow
+32, 32, Hardin, Cavalier, Steel Sword, Iron Lance
+16, 32, Jagen, Paladin, Silver Sword, Ridersbane
+15, 32, Clive, Horseman, Parthia, Silver Bow
+13, 33, Caeda, Pegasus Knight, Silver Lance, Javelin
+12, 33, Minerva, Dracoknight, Silver Lance, Ridersbane, Javelin
+12, 30, Robin, Mage, Fire, Elfire, Bolganone
+13, 30, Halcyon, Bishop, Blizzard, Thoron, Aura
+35, 30, Tiki, Manakete, Divinestone

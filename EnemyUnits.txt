@@ -1,0 +1,26 @@
+10, 3, Grima, Manakete, Stop, Magestone, Earthstone, Firestone, Gradivus
+11, 3, Validar, Bishop, Attack, Imhullu, Swarm, Thoron, Bolganone
+5, 8, Garon, General, Stop, Cursed Sword, Levin Sword, Javelin
+5, 14, Dolhr, Knight, Attack, Steel Sword
+10, 12, Dolhr, Paladin, Attack, Steel Sword
+11, 12, Dolhr, Paladin, Attack, Silver Lance
+21, 12, Dolhr, Ballistician, Attack, Thunderbolt
+22, 12, Dolhr, Ballistician, Attack, Thunderbolt
+14, 19, Berkut, Lord, Attack, Killing Edge, Rapier
+13, 19, Dolhr, Horseman, Attack, Steel Bow
+15, 19, Dolhr, Horseman, Attack, Steel Bow
+14, 20, Dolhr, Pegasus Knight, Attack, Steel Sword
+13, 24, Dolhr, Mage, Attack, Blizzard
+14, 24, Dolhr, Mage, Attack, Fire
+17, 25, Dolhr, Knight, Attack, Iron Lance
+25, 19, Wolff, Hunter, Attack, Iron Bow
+24, 19, Jarth, Pirate, Attack, Iron Axe
+25, 20, Garth, Pirate, Attack, Hand Axe
+26, 20, Barth, Fighter, Attack, Steel Axe
+26, 19, Brigand Boss, Fighter, Stop, Steel Axe, Hand Axe
+27, 19, Hans, Thief, Attack, Iron Sword
+31, 24, Dolhr, Sniper, Attack, Steel Bow
+30, 24, Dolhr, Cavalier, Attack, Javelin
+29, 24, Dolhr, Cavalier, Attack, Iron Lance
+26, 25, Dolhr, Knight, Attack, Javelin
+21, 28, Brigand, Pirate, Attack, Iron Axe
